@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zhouliang-yu
 - 👀 I’m interested in Optimization, and ML/RL for Combinational Optimization
 - 🌱 I’m currently learning ML/RL and Optimization 
+- ✨ I will apply for phd programs in 2023/2024
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me zhouliangyu@link.cuhk.edu.cn
 
