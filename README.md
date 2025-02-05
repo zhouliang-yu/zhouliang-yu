@@ -1,7 +1,7 @@
 Hi,
 I am an incoming PhD student at the Chinese University of Hong Kong
 
-My research interests are Reinforcement Learning/Robotics/Artificial Intelligence/LLM Reasoning/World Models
+I am interested in Autoformalization via RL with LLMs
 
 <!---
 zhouliang-yu/zhouliang-yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
