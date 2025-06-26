@@ -9,4 +9,4 @@ During the long-term future (maybe 2024-2027), I will be (almost) entirely focus
 
 🌍 Broader interests include their applications in model-based [embodied AI](https://arxiv.org/pdf/2405.06964) and scientific discovery via formal verification (e.g., [Scientist AI](https://arxiv.org/abs/2502.15657), [PhysLean](https://github.com/HEPLean/PhysLean), however, I have not yet published in this domain). 
 
-📧 Contact Me：[My Email] (zhouliangyu@link.cuhk.edu.cn)
+📧 Contact Me：[My Email](zhouliangyu@link.cuhk.edu.cn)
