@@ -1,4 +1,4 @@
-👋 Hi there! I'm Zhouliang
+👋 Hi there! I'm Zhouliang (郁昼亮)
 I am an incoming PhD student at the Scalable Principles for Learning and Reasoning Lab ([SphereLab](https://spherelab.ai/)) of the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/), in the [Computer Science & Engineering](https://www.cse.cuhk.edu.hk/) department, advised by Prof. [Weiyang Liu](https://wyliu.com/), working on reinforcement learning for formal reasoning. 
 
 Previously, I spent a wonderful year at HKGAI, [HKUST](https://hkust.edu.hk/), as a PhD student advised by Prof. [Yike Guo](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo). Before that, I received my bachelor's degree from the [Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en).
