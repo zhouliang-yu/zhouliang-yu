@@ -4,7 +4,7 @@ Previously, I spent a wonderful year at HKGAI, [HKUST](https://hkust.edu.hk/), a
 
 🎯 Research Focus
 
-During the long-term future (maybe 2024-2027), I will be (almost) entirely focused on [exploration](https://arxiv.org/pdf/2502.04728)-based [reinforcement learning](https://arxiv.org/abs/2504.11354) for [formal mathematics](https://arxiv.org/pdf/2505.02735) reasoning via (agentic) [large language models](https://arxiv.org/abs/2405.19327).
+During the long-term future (maybe 2024-2027), I will be (almost) entirely focused on [exploration](https://arxiv.org/pdf/2502.04728)-based [reinforcement learning](https://arxiv.org/abs/2504.11354) for [formal mathematics](https://arxiv.org/pdf/2505.02735) reasoning via (agentic) [large language models](https://arxiv.org/abs/2405.19327). Despite not being my major research focus, I am actively learning RL infrastructure to support Large Model Training.
 
 🌍 Other broader interests include their applications in model-based [embodied AI](https://arxiv.org/pdf/2405.06964) and scientific discovery via formal verification (e.g., [Scientist AI](https://arxiv.org/abs/2502.15657), [PhysLean](https://github.com/HEPLean/PhysLean), however, I have not yet published in this domain). 
 
